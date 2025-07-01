@@ -1,0 +1,8 @@
+pandas
+nltk
+textblob
+vaderSentiment
+matplotlib
+seaborn
+wordcloud
+youtube-comment-downloader
